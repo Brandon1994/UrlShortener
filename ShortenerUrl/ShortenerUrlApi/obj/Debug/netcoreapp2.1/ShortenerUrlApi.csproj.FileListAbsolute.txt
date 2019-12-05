@@ -1,0 +1,14 @@
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\bin\Debug\netcoreapp2.1\ShortenerUrlApi.deps.json
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\bin\Debug\netcoreapp2.1\ShortenerUrlApi.runtimeconfig.json
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\bin\Debug\netcoreapp2.1\ShortenerUrlApi.runtimeconfig.dev.json
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\bin\Debug\netcoreapp2.1\ShortenerUrlApi.dll
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.RazorAssemblyInfo.cache
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.RazorAssemblyInfo.cs
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.AssemblyInfo.cs
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.RazorTargetAssemblyInfo.cache
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\bin\Debug\netcoreapp2.1\ShortenerUrlApi.pdb
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.dll
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.pdb
+C:\Users\brand\source\repos\ShortenerUrl\ShortenerUrlApi\obj\Debug\netcoreapp2.1\ShortenerUrlApi.csprojAssemblyReference.cache
